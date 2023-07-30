@@ -4,7 +4,7 @@ TextUtils is a web application built with React that provides various text manip
 
 ## Live Demo
 
-You can try out the live demo of the TextUtils app [here](https://example.com/textutils).
+You can try out the live demo of the TextUtils app [here]([https://example.com/textutils](https://shubhamkolape.github.io/TextUtilsApp/)).
 
 ## Features
 
